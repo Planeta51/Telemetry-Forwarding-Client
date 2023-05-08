@@ -44,6 +44,7 @@ module.exports = {
   },
 
   resolve: {
+    fullySpecified: false,
     extensions: ['.*', '.ts', '.tsx', '.js', '.jsx'],
     symlinks: false,
 
